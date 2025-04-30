@@ -1,4 +1,4 @@
-# sturdy-robot
+
 # 🤖 Sturdy Robot
 
 > Your dependable Python-powered digital assistant — built for speed, intelligence, and automation.  
