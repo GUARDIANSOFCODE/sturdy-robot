@@ -10,7 +10,7 @@
 
 ## 🚀 About the Project
 
-**Sturdy Robot** is a smart automation and utility suite built with Python. Whether you're a student, a developer, or a tech enthusiast, this robot serves as your command-line companion — fast, scalable, and packed with real-world functionalities.
+**Sturdy Robot** is a smart automation and utility suite built with Tech. Whether you're a student, a developer, or a tech enthusiast, this robot serves as your command-line companion — fast, scalable, and packed with real-world functionalities.
 
 It’s not just code. It's craftsmanship.  
 This repo follows **clean code principles**, **robust logic**, and includes **visually polished outputs**. From smart games to data utilities — it’s a portfolio piece, a toolkit, and a learning ground.
