@@ -2,7 +2,7 @@ import pygame
 import sys
 
 # Initialize pygame
-pygame.init()
+pygame.init() 
 
 # Screen settings
 WIDTH, HEIGHT = 600, 600
